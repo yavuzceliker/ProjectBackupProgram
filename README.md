@@ -5,4 +5,4 @@
   <span style="font-size: 1rem;">C# dili kullanılarak, windows form app türünde masaüstü bir program olarak hazırlanmış ve&nbsp;</span>
   <span style="font-size: 1rem;">geliştirmeye açık bir şekilde sunulmuştur.</span>
 </p>
-<br>
+<p>Proje hakkında detaylı bilgilendirme için <a href='https://www.yavuzceliker.com.tr/TR/projeler/proje-yedekleme-programi/75'>sitemi</a> ziyaret edebilirsiniz.</p>
